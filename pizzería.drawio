@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T00:20:12.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Eq8IfwOQGGpoSV9ZYWAM" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T00:22:39.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_OTSNp2AaS4qT-zRwEXd" version="22.1.21" type="github">
   <diagram name="Página-1" id="X--nigl0-WGzkR76D9oi">
     <mxGraphModel dx="1018" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VK7BP7vXFEG7lASL9OT0-1" value="Banco" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="555" width="30" height="60" as="geometry" />
+          <mxGeometry x="890" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VK7BP7vXFEG7lASL9OT0-2" value="Cajero" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="260" width="30" height="60" as="geometry" />
