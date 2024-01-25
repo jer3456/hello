@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T00:22:39.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_OTSNp2AaS4qT-zRwEXd" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T00:45:54.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0QTvaa60mn-wW2icO6xa" version="22.1.21" type="github">
   <diagram name="Página-1" id="X--nigl0-WGzkR76D9oi">
     <mxGraphModel dx="1018" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,18 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="423.5" as="sourcePoint" />
             <mxPoint x="455" y="-23.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VK7BP7vXFEG7lASL9OT0-45" value="Banco" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="385" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VK7BP7vXFEG7lASL9OT0-46" value="Transferencia de Fondos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VK7BP7vXFEG7lASL9OT0-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.958;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VK7BP7vXFEG7lASL9OT0-46" target="VK7BP7vXFEG7lASL9OT0-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1495" y="337" as="sourcePoint" />
+            <mxPoint x="1560" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
