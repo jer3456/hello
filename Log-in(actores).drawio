@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T00:26:49.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7z-4-KcUvMO3Nlx2B1ey" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T00:29:47.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0-bwU8pH-yiX_3eOJRpA" version="23.0.2" type="github">
   <diagram name="Página-1" id="_7mFdQsxWDLfKX1LDUqQ">
     <mxGraphModel dx="1120" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="120" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKQWSGTNVJlm8kkWc3Bc-20" value="Almacenar Credenciales" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CKQWSGTNVJlm8kkWc3Bc-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="CKQWSGTNVJlm8kkWc3Bc-19" target="CKQWSGTNVJlm8kkWc3Bc-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
